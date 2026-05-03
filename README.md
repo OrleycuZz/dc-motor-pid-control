@@ -1,6 +1,23 @@
 # dcdc-converter-control
-This project models and controls a DC-DC converter using Simulink and Simscape.
-The objective is to regulate the output voltage despite load variations using a PID controller.
+DC Motor speed control using PID MATLAB Transfer Function 
+& Simscape physical model | MATLAB R2024b
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1117" height="565" alt="image" src="https://github.com/user-attachments/assets/74368c10-22ce-4f13-8c04-6d446d946467" />
+
+
+
+
 
 
 👤 Author
