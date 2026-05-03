@@ -83,3 +83,13 @@ Two modeling approaches are used:
 Comparing both models allows validation of assumptions and controller performance.
 
 ---
+
+### Results
+
+
+
+<img width="2047" height="904" alt="image" src="https://github.com/user-attachments/assets/2e01d294-cf45-43dc-9b5c-e966bdfe0f79" />
+
+<img width="831" height="748" alt="image" src="https://github.com/user-attachments/assets/5a4d8f83-50ff-4394-8741-126d070bd85b" />
+
+---
