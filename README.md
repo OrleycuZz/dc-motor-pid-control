@@ -30,14 +30,11 @@ Simscape Electrical
 5.  How to Run
 
 Open dcdc_model.slx
-Run init_parameters.m
-Start simulation
+Run init_parameters.m, Start simulation
 
 6. Future Improvements
 
-Replacing PID with MPC
-Adding efficiency analysis
-Implementing HIL simulation
+Replacing PID with MPC, Adding efficiency analysis, Implementing HIL simulation
 
 
 👤 Author
